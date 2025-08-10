@@ -47,6 +47,8 @@ siga as instruções: https://ollama.com/download
 
 ollama serve
 
+ollama list (para listar os modelos instalados)
+
 ## 5. Baixar os modelos necessários
 
 ollama pull gemma3:4b
