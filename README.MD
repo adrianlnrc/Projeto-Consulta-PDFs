@@ -61,3 +61,9 @@ O Localhost vai aparecer no terminal ou LangFlow abrirá no navegador.
 
 Carregue o fluxo (.json) clicando em "upload a flow " e execute o projeto.
 
+## 6. Dentro do LangFlow
+
+Inserir os PDFs desejados no bloco "File", executar o ChromaDB
+
+Iniciar o chat clicando em "Playground"
+
