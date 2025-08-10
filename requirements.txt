@@ -1,0 +1,4 @@
+langflow==1.5.0.post1
+langchain-ollama==0.2.1
+chromadb
+pymupdf
